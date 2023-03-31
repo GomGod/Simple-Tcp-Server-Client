@@ -1,0 +1,6 @@
+C:\Git\Simple TCP Server\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.dll
+C:\Git\Simple TCP Server\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.pdb
+C:\Git\Simple TCP Server\SimpleTcpServer\SimpleTcpServer\obj\Debug\SimpleTcpServer.csproj.AssemblyReference.cache
+C:\Git\Simple TCP Server\SimpleTcpServer\SimpleTcpServer\obj\Debug\SimpleTcpServer.csproj.CoreCompileInputs.cache
+C:\Git\Simple TCP Server\SimpleTcpServer\SimpleTcpServer\obj\Debug\SimpleTcpServer.dll
+C:\Git\Simple TCP Server\SimpleTcpServer\SimpleTcpServer\obj\Debug\SimpleTcpServer.pdb
